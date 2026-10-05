@@ -1,0 +1,2 @@
+# premium-x-leg-bench-001-x-leg-bench-building-cross-b
+Stop guessing your cross brace angles and wasting lumber on wobbly bench prototypes.  This Notion template turns your bench building into a precision craft. It provides interactive checklists, angle calculators, and material tracking so every X-leg bench you build is rock-solid and repeatable. Unlike static PDFs, this adapts to your measurements an
